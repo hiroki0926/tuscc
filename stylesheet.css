@@ -21,7 +21,7 @@ a {
   padding: 180px 0 100px 0;
   background-image: url(top.png);
   background-size: cover;
-  color: white;
+  color:pink;
   text-align: center;
 }
 
@@ -49,8 +49,8 @@ a {
   background-color: #239b76;
 }
 
-.facebook {
-  background-color: #3b5998;
+.instagram {
+  background-color: #ff1495;
   margin-right: 10px;
 }
 
